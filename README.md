@@ -4,11 +4,11 @@ This repository collects some study resources for static analysis, which can ser
 
 # Group && Scholar
 
-[Tan Tian && Yue Li @NJU](https://pascal-lab.net/)
-
 [Jingling Xue @UNSW](https://www.cse.unsw.edu.au/~jingling/byyear.html)
 
 [Charles Zhang @HKUST](https://cse.hkust.edu.hk/~charlesz/)
+
+[Tan Tian && Yue Li @NJU](https://pascal-lab.net/)
 
 [Yannis Smaragdakis @University of Athens](https://yanniss.github.io/)
 
