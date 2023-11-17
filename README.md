@@ -4,13 +4,13 @@ This repository collects some study resources for static analysis, which can ser
 
 # Group && Scholar
 
-[PASCAL Research Group: Home](https://pascal-lab.net/)
+[Tan Tian && Yue Li@NJU](https://pascal-lab.net/)
 
-[Bibliography generated from xuej.bib](https://www.cse.unsw.edu.au/~jingling/byyear.html)
+[Jingling Xue@UNSW](https://www.cse.unsw.edu.au/~jingling/byyear.html)
 
-[Charles Zhang](https://cse.hkust.edu.hk/~charlesz/)
+[Charles Zhang@HKUST](https://cse.hkust.edu.hk/~charlesz/)
 
-[Yannis Smaragdakis](https://yanniss.github.io/)
+[Yannis Smaragdakis@University of Athens](https://yanniss.github.io/)
 
 # Project
 
@@ -18,7 +18,7 @@ This repository collects some study resources for static analysis, which can ser
 
 [Qilin: Java Pointer Analysis with Fine-Grained Context Sensitivity](https://qilinpta.github.io/Qilin/)
 
-[Fusion and Pinpoint Scan - Static Analysis](https://fusion-scan.github.io/#)
+[Pinpoint: Fast and Precise Sparse Value Flow Analysis for Million Lines of Code](https://fusion-scan.github.io/#)
 
 # Tutorial
 
