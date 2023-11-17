@@ -8,9 +8,10 @@ This repository collects some study resources for static analysis, which can ser
 
 [Charles Zhang @HKUST](https://cse.hkust.edu.hk/~charlesz/)
 
+[Yannis Smaragdakis @University of Athens](https://yanniss.github.io/)
+
 [Tan Tian && Yue Li @NJU](https://pascal-lab.net/)
 
-[Yannis Smaragdakis @University of Athens](https://yanniss.github.io/)
 
 # Project
 
