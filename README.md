@@ -47,7 +47,7 @@ This repository collects some study resources for static analysis, which can ser
 
 ## Program Analysis @NJU
 
-[南京大学《软件分析》课程01（Introduction）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1b7411K7P4/?spm_id_from=333.999.0.0&vd_source=b8d0700db8191b6f6cf9a435f832bc99)
+[Nanjing Univerisity "Program Analysis"](https://www.bilibili.com/video/BV1b7411K7P4/?spm_id_from=333.999.0.0&vd_source=b8d0700db8191b6f6cf9a435f832bc99)
 
 ## Compiler Design @CMU
 
