@@ -3,6 +3,7 @@
 This repository collects some study resources for static analysis, which can serve as a Ph.D. prerequisite course for students in this field.
 
 # Group && Scholar
+[Thomas W. Reps @UWisc](https://pages.cs.wisc.edu/~reps/)
 
 [Jingling Xue @UNSW](https://www.cse.unsw.edu.au/~jingling/byyear.html)
 
