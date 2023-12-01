@@ -60,6 +60,10 @@ This repository collects some study resources for static analysis, which can ser
 
 [Introduction to Static Code Analysis and Code Optimization](https://www.youtube.com/watch?v=te2iYyZfckg&list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU&index=1)
 
-## Program Analysis @University of Stuttgart
+### Program Analysis @University of Stuttgart
 
 [Lecture "Introduction (Part 1, Motivation)" of "Program Analysis"](https://www.youtube.com/watch?v=PS-4yD5WgCQ&list=PLBmY8PAxzwIEGtnJiucyGAnwWpxACE633)
+
+### Software Security @ASU
+
+[ASU CSE545 Software Security S23](https://www.youtube.com/watch?v=lqKEkfvjgTA&list=PLV4Dfls5jUgx6yMPiYaRdPUQeXh_IzhOr)
